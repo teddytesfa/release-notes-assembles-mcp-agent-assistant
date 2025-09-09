@@ -24,7 +24,7 @@ wheels/
 venv/
 env/
 ENV/
-.env
+release_notes.env
 
 # IDE
 .vscode/
