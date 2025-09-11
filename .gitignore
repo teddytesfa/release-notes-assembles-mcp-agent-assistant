@@ -34,8 +34,7 @@ release_notes.env
 *~
 
 # Project specific
-plan.md
-Release\ Notes\ Assembler\ MCP\ based\ Agent\ Assistant\ -\ Implementation\ Documentation.md
+docs/internal/
 
 # Local development
 *.env
